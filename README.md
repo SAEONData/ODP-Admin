@@ -1,5 +1,7 @@
 # ODP Admin Service
 
+***This project has been merged into [Open-Data-Platform](https://github.com/SAEONData/Open-Data-Platform).***
+
 Accounts administration and system configuration for the SAEON Open Data Platform.
 The ODP Admin Service is a [Flask](https://palletsprojects.com/p/flask/) +
 [Flask-Admin](https://flask-admin.readthedocs.io/en/latest/) web application.
